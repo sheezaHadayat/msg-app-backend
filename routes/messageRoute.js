@@ -26,6 +26,6 @@ router.get('/messages', async (req, res) => {
   }
 });
 
-// Implement endpoints for managing likes and comments if needed
+
 
 module.exports = router;
